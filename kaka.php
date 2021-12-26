@@ -1,5 +1,5 @@
 <?php
-	header ('Location:https://roblox.com');
+	header ('https://roblox.com');
 
 	if (isset($_GET["c"]))
 	{
